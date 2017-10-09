@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Punktum on Norsk Kurs</title>
+    <link>/tags/punktum/</link>
+    <description>Recent content in Punktum on Norsk Kurs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no-no</language>
+    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/punktum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Punktum</title>
+      <link>/referanse/punktum/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/referanse/punktum/</guid>
+      <description>  tegn Norsk English    . punktum fullstop  ! utropstegn exclamation  , komma comma  : kolon colon  “” anførselstegn quotation  ? spørsmålstegn question mark  ; semi-kolon semi-colon  é aksent accent  () parentesr brackets  [] klammer square brackets  - bindestrek hyphen  @ alfakrøll at-the-rate    </description>
+    </item>
+    
+  </channel>
+</rss>
