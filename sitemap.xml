@@ -44,13 +44,13 @@
   </url>
   
   <url>
-    <loc>/categories/lekser/</loc>
+    <loc>/tags/lekser/</loc>
     <lastmod>2017-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/lekser/</loc>
+    <loc>/categories/lekser/</loc>
     <lastmod>2017-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -62,13 +62,13 @@
   </url>
   
   <url>
-    <loc>/categories/referense/</loc>
+    <loc>/tags/referense/</loc>
     <lastmod>2017-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/referense/</loc>
+    <loc>/categories/referense/</loc>
     <lastmod>2017-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
